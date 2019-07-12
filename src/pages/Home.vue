@@ -12,7 +12,7 @@
                             <h4 id="intro-text" data-scroll-reveal="enter from the bottom after 0.4s">I am a Computer Science and Engineering Professional. I studied Computer Science and Engineering at IUBAT- International University of Business Agriculture and Technology. I am passionate about Computer Programming and Software Development. I am expert in JavaSE and ASP.NET MVC.
 
                             </h4>
-                            <a data-scroll-reveal="enter from the bottom after 0.6s" href="#services" class="btn btn-danger set-bk-clr">Explore Awesomeness</a>
+                            <a data-scroll-reveal="enter from the bottom after 0.6s" href="/about" class="btn btn-danger set-bk-clr">Explore Awesomeness</a>
                         </div>
                     </div>
                 </div>
